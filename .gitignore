@@ -19,6 +19,7 @@ Assets/XLua/Gen.meta
 *.sln
 Library/
 Temp/
+obj/
 .vs/
 Assets/Plugins/Android/
 Assets/Plugins/Android.meta
@@ -27,3 +28,4 @@ Assets/Plugins/Android.meta
 /Logs
 ~*.docx
 .DS_Store
+ProjectSettings/ProjectVersion.txt
