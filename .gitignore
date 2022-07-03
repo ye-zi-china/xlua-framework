@@ -13,8 +13,8 @@ Assets/StreamingAssets/AssetBundles/
 AssetBundles/
 Assets/StreamingAssets/AssetBundles.meta
 *.apk
-Assets/Scripts/XLua/Gen/
-Assets/Scripts/XLua/Gen.meta
+Assets/XLua/Gen/
+Assets/XLua/Gen.meta
 *.csproj
 *.sln
 Library/
@@ -26,3 +26,4 @@ Assets/Plugins/Android.meta
 .idea
 /Logs
 ~*.docx
+.DS_Store
