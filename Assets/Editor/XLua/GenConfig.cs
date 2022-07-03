@@ -22,7 +22,6 @@ public static class GenConfig
         typeof(AnimationCurve),
         typeof(AnimationClip),
         typeof(MonoBehaviour),
-        typeof(ParticleSystem),
         typeof(SkinnedMeshRenderer),
         typeof(Renderer),
         typeof(WWW),
